@@ -5,12 +5,6 @@
 ### 🔍 My tech stacks are:
 
 
-# My Project
-
-(https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg)
-
-
-
 - **Frontend Development Mastery:** 💻
   - JavaScript | TypeScript | React.js | Next.js | Redux
   - React Native | HTML5 | CSS | Tailwind | Chakra UI | SASS | Jest
