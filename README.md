@@ -7,7 +7,7 @@
 
 # My Project
 
-![JS]([images/logo.png](https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg))
+(https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg)
 
 
 
