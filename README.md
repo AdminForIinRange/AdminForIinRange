@@ -1,4 +1,4 @@
-# Hi there, I'm Anjesh Bhattarai 👋
+# Hi there, I'm Anjesh 👋
 
 ## I'm a fervent Full-Stack Developer with a knack for enhancing web experiences through both design and code. 🌟
 
