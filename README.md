@@ -25,3 +25,7 @@
 - Whether you're looking to build an engaging frontend experience or require backend enhancements, I'm eager to apply my expertise, energy, and creativity.
 - Let's connect and craft web solutions that stand out!
 - ✉️ Invite me to collaborate on your project - I'm excited to contribute and make a difference!
+
+  ### 📱 Soicals:
+
+Linkden: www.linkedin.com/in/anjesh-bhattarai
