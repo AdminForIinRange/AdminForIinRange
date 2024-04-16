@@ -28,4 +28,4 @@
 
   ### 📱 Soicals:
 
-- Linkden: www.linkedin.com/in/anjesh-bhattarai
+- Linkedin: www.linkedin.com/in/anjesh-bhattarai
