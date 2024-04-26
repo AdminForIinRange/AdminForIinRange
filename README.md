@@ -26,6 +26,6 @@
 - Let's connect and craft web solutions that stand out!
 - ✉️ Invite me to collaborate on your project - I'm excited to contribute and make a difference!
 
-  ### 📱 Socials:
+### 📱 Socials:
 
 - Linkedin: www.linkedin.com/in/anjesh-bhattarai
