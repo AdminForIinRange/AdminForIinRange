@@ -2,7 +2,7 @@
 
 
 LinkedIn: [Anjesh Bhattarai](http://www.linkedin.com/in/anjesh-bhattarai)  
-GitHub: [AdminForIinRange](http://www.github.com/AdminForIinRange)
+
 
 Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications. Let me tell you a bit about myself!
 
