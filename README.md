@@ -1,8 +1,6 @@
 # Hello there! I'm Anjesh Bhattarai 🌟
 
-
 LinkedIn: [Anjesh Bhattarai](http://www.linkedin.com/in/anjesh-bhattarai)  
-
 
 Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications. Let me tell you a bit about myself!
 
@@ -17,32 +15,16 @@ I've had the pleasure of collaborating with clients from around the globe to bri
 ## Skills
 
 ### Languages 🚀
-- HTML
-- CSS
-- JavaScript
-- Python
+HTML | CSS | JavaScript | Python
 
 ### Frontend Technologies 🎨
-- React.js
-- Next.js
-- Redux
-- Tailwind CSS
-- Chakra UI
-- Material UI
-- Bootstrap
-- Framer Motion
-- Animate.css
+React.js | Next.js | Redux | Tailwind CSS | Chakra UI | Material UI | Bootstrap | Framer Motion | Animate.css
 
 ### Backend Technologies 💻
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
+Node.js | Express.js | MongoDB | Firebase
 
 ### Cloud and Beyond ☁️
-- Netlify
-- Vercel
-- Unity (Yep, I like to dabble!)
+Netlify | Vercel | Unity (Yep, I like to dabble!)
 
 ## Projects
 
@@ -68,4 +50,3 @@ Ensuring security is key! With Firebase and Redux, I crafted an Authentication P
 ### Driving Instructor Social Media
 Revving up the MERN stack! This project was a journey through MongoDB, Express.js, React.js, and Node.js, all in the name of helping driving instructors find freelance work!
 - GitHub Repository: [MERN Driving Instructors](https://github.com/AdminForIinRange/MERN-DrivingInstructors)
-
