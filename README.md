@@ -15,14 +15,14 @@ I've had the pleasure of collaborating with clients from around the globe to bri
 ## Skills
 
 ### Languages 🚀
-HTML | CSS | JavaScript | Python
+HTML | CSS | JavaScript | Python | Typescript
 
-### Frontend Technologies 🎨
-React.js | Next.js | Redux | Tailwind CSS | Chakra UI | Material UI | Bootstrap | Framer Motion | Animate.css
+### Frontend Technologies🎨
+React.js | Next.js | Redux Toolkit | Tailwind CSS | Chakra UI | Material UI | Bootstrap | Framer Motion | Animate.css | Recharts | Emotion | Shadcn UI
 
 ### Backend Technologies 💻
-Node.js | Express.js | MongoDB | Firebase
+Node.js | Express.js | MongoDB | Firebase | GraphQL | Socket.IO | NextAuth | Auth.js | Puppeteer | Postman | GPT API 
 
 ### Cloud and Beyond ☁️
-Netlify | Vercel | Unity (Yep, I like to dabble!)
+Netlify | Firebase | GitHub | Figma | Vercel | Vite | Shopify (Liquid) | Unity (Yep, I like to dabble!)
 
