@@ -17,7 +17,7 @@ I've had the pleasure of collaborating with clients from around the globe to bri
 ### Languages 🚀
 HTML  |  CSS  |  JavaScript  |  Python  |  Typescript
 
-### Frontend Technologies🎨
+### Frontend Technologies 🎨
 React.js  |  Next.js  |  Redux Toolkit  |  Tailwind CSS  |  Chakra UI  |  Material UI  |  Bootstrap  |  Framer Motion  |  Animate.css  |  Recharts  |  Emotion  |  Shadcn UI
 
 ### Backend Technologies 💻
