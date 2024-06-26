@@ -4,6 +4,15 @@ LinkedIn: [Anjesh Bhattarai](http://www.linkedin.com/in/anjesh-bhattarai)
 
 Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications. Let me tell you a bit about myself!
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdminForIinRange&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000" alt="GitHub Streak" /></a>
+<div style="display: flex; align-items: center; >
+          
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdminForIinRange&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdminForIinRange&theme=dark)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdminForIinRange&repo=github-readme-stats)](https://github.com/AdminForIinRange/github-readme-stats)
+</div> 
+
 ## Experience
 
 ### Freelancing
@@ -81,3 +90,5 @@ Linux | Ubuntu | Netlify | Firebase | GitHub | Git | Figma | Vercel | Vite | Uni
 <img src="https://github.com/AdminForIinRange/AdminForIinRange/assets/91888685/0b69b735-78c7-4e2b-8b6a-15cedb1164f4" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 
 </div>
+
+
