@@ -17,7 +17,7 @@
 Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications. Let me tell you a bit about myself! 
 <br />
 
-## Soicals 📱
+# Soicals 📱
 
 <a href="http://www.linkedin.com/in/anjesh-bhattarai"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin-right: 15px;">
@@ -25,7 +25,8 @@ Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer
 
 <br />
 
-## Skills
+
+# Skills
 
 ### Languages 🚀
 HTML  |  CSS  |  JavaScript  |  Python  |  Typescript |  PHP
@@ -36,8 +37,10 @@ HTML  |  CSS  |  JavaScript  |  Python  |  Typescript |  PHP
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" style="margin-right: 15px;"> <td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  </td>  
-     <br />     
+
 </div>
+
+<br />
 
 ### Frontend Technologies 🎨
 React.js  |  Next.js  |  Redux Toolkit  |  Tailwind CSS  |  Chakra UI  |  Material UI  |  Bootstrap  |  Framer Motion   |  Recharts  |  Emotion  |  Shadcn UI
@@ -57,9 +60,10 @@ React.js  |  Next.js  |  Redux Toolkit  |  Tailwind CSS  |  Chakra UI  |  Materi
 
 <img src="https://github.com/AdminForIinRange/AdminForIinRange/assets/91888685/a000baf2-9cf2-451c-8588-e3301803da6f" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 
-<br />
 
 </div>
+
+<br />
 
 ### Backend Technologies 💻
 Node.js  |  Express.js  |  MongoDB  |  Firebase  |  GraphQL  |  Socket.IO  |  NextAuth   |  Puppeteer  |  Postman  |  GPT API 
