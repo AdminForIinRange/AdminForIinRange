@@ -29,23 +29,25 @@ Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer
 ## Skills
 
 ### Languages 🚀
-HTML  |  CSS  |  JavaScript  |  Python  |  Typescript |  PHP
-<div style="display: flex; align-items: center; ">
+<td>&nbsp;&nbsp;</td>HTML<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>CSS<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>JavaScript<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Python<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Typescript<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>PHP<td>&nbsp;&nbsp;</td>
+
+
+<div style="display: flex; align-items: center; "> <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp</td> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" style="margin-right: 15px;"> <td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  </td>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" style="margin-right: 15px;"> <td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td></td>  
 
 </div>
 
 <br />
 
 ### Frontend Technologies 🎨
-React.js  |  Next.js  |  Redux Toolkit  |  Tailwind CSS  |  Chakra UI  |  Material UI  |  Bootstrap  |  Framer Motion   |  Recharts  |  Emotion  |  Shadcn UI
+<td>&nbsp;&nbsp;</td>React.js<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Next.js<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Redux Toolkit<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Tailwind CSS<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Chakra UI<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Material UI<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Bootstrap<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Framer Motion<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Recharts<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Emotion<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Shadcn UI<td>&nbsp;&nbsp;</td>
 
-<div style="display: flex; align-items: center; ">
+<div style="display: flex; align-items: center; "> <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
@@ -66,9 +68,9 @@ React.js  |  Next.js  |  Redux Toolkit  |  Tailwind CSS  |  Chakra UI  |  Materi
 <br />
 
 ### Backend Technologies 💻
-Node.js  |  Express.js  |  MongoDB  |  Firebase  |  GraphQL  |  Socket.IO  |  NextAuth   |  Puppeteer  |  Postman  |  GPT API 
+Node.js<td>&nbsp;&nbsp;</td> |  <td>&nbsp;&nbsp;</td>Express.js<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>MongoDB<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Firebase<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>GraphQL<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Socket.IO<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>NextAuth<td>&nbsp;&nbsp;</td>   |  <td>&nbsp;&nbsp;</td>Puppeteer<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Postman<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>GPT API<td>&nbsp;&nbsp;</td> 
 
-<div style="display: flex; align-items: center; ">
+<div style="display: flex; align-items: center; "> <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin-left: 105px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" style="margin-left: 105px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" style="margin-right: 105px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
@@ -85,8 +87,9 @@ Node.js  |  Express.js  |  MongoDB  |  Firebase  |  GraphQL  |  Socket.IO  |  Ne
 <br />
 
 ### Cloud and Beyond ☁️
-Linux | Ubuntu | Netlify | GitHub | Git | Figma | Vercel | Vite | Unity | Shopify | WordPress
-<div style="display: flex; align-items: center;">
+<td>&nbsp;&nbsp;</td>Linux<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Ubuntu<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Netlify<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>GitHub<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Git<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Figma<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Vercel<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Vite<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Unity<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Shopify<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>WordPress<td>&nbsp;&nbsp;</td>
+
+<div style="display: flex; align-items: center;"> <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>   
