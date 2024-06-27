@@ -5,19 +5,25 @@
 </a>
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdminForIinRange&theme=dark" alt="Profile Details">
 
+
+
+</div>
+<br />
+
+# Hello there! I'm Anjesh Bhattarai 🌟
+
+
+
+Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications. Let me tell you a bit about myself! 
+<br />
+
+## Soicals 📱
+
 <a href="http://www.linkedin.com/in/anjesh-bhattarai"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin-right: 15px;">
 </a>
 
-
-</div>
-
-# Hello there! I'm Anjesh Bhattarai 🌟 (Not done with my Githib Readme file)
-
-
-
-
-Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications. Let me tell you a bit about myself!
+<br />
 
 ## Skills
 
@@ -30,7 +36,7 @@ HTML  |  CSS  |  JavaScript  |  Python  |  Typescript |  PHP
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" style="margin-right: 15px;"> <td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  </td>  
-          
+     <br />     
 </div>
 
 ### Frontend Technologies 🎨
@@ -51,7 +57,7 @@ React.js  |  Next.js  |  Redux Toolkit  |  Tailwind CSS  |  Chakra UI  |  Materi
 
 <img src="https://github.com/AdminForIinRange/AdminForIinRange/assets/91888685/a000baf2-9cf2-451c-8588-e3301803da6f" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 
-
+<br />
 
 </div>
 
@@ -70,9 +76,9 @@ Node.js  |  Express.js  |  MongoDB  |  Firebase  |  GraphQL  |  Socket.IO  |  Ne
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://github.com/AdminForIinRange/AdminForIinRange/assets/91888685/fd4bb29b-c861-4132-892d-f4da0c6ca679" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 
-
-
 </div>
+
+<br />
 
 ### Cloud and Beyond ☁️
 Linux | Ubuntu | Netlify | GitHub | Git | Figma | Vercel | Vite | Unity | Shopify | WordPress
@@ -88,6 +94,10 @@ Linux | Ubuntu | Netlify | GitHub | Git | Figma | Vercel | Vite | Unity | Shopif
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://github.com/AdminForIinRange/AdminForIinRange/assets/91888685/0b69b735-78c7-4e2b-8b6a-15cedb1164f4" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
+
+
 </div>
 
 
+
+<br />
