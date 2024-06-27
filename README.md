@@ -1,15 +1,9 @@
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-
 <a href="https://git.io/streak-stats"> 
     <img src="https://streak-stats.demolab.com?user=AdminForIinRange&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000" alt="GitHub Streak" />
 </a>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdminForIinRange&theme=dark" alt="Profile Details">
-
-
-</div>
 
 </div>
 
