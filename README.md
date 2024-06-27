@@ -17,7 +17,7 @@
 Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications. Let me tell you a bit about myself! 
 <br />
 
-# Soicals 📱
+## Soicals 📱
 
 <a href="http://www.linkedin.com/in/anjesh-bhattarai"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin-right: 15px;">
@@ -26,7 +26,7 @@ Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer
 <br />
 
 
-# Skills
+## Skills
 
 ### Languages 🚀
 HTML  |  CSS  |  JavaScript  |  Python  |  Typescript |  PHP
