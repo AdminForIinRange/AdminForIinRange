@@ -14,7 +14,7 @@
 
 
 
-Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications. Let me tell you a bit about myself! 
+Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer with a passion for creating awesome web applications! 
 <br />
 
 ## Soicals 📱
@@ -81,7 +81,7 @@ Node.js<td>&nbsp;&nbsp;</td> |  <td>&nbsp;&nbsp;</td>Express.js<td>&nbsp;&nbsp;<
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" width="50" height="50" style="margin-right: 15px;"> <td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 <img src="https://github.com/AdminForIinRange/AdminForIinRange/assets/91888685/fd4bb29b-c861-4132-892d-f4da0c6ca679" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" width="50" height="50" style="margin-right: 15px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>  
 </div>
 
 <br />
