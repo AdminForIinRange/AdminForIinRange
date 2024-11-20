@@ -68,7 +68,7 @@ Welcome to my world of coding adventures! I'm a self-taught Full Stack Developer
 <br />
 
 ### Backend Technologies 💻
-Node.js<td>&nbsp;&nbsp;</td> |  <td>&nbsp;&nbsp;</td>Express.js<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>MongoDB<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Firebase<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>GraphQL<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Socket.IO<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>NextAuth<td>&nbsp;&nbsp;</td>   |  <td>&nbsp;&nbsp;</td>Puppeteer<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Postman<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>GPT API<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>GPT API<td>&nbsp;&nbsp;</td>
+Node.js<td>&nbsp;&nbsp;</td> |  <td>&nbsp;&nbsp;</td>Express.js<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>MongoDB<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Firebase<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>GraphQL<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Socket.IO<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>NextAuth<td>&nbsp;&nbsp;</td>   |  <td>&nbsp;&nbsp;</td>Puppeteer<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Postman<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>GPT API<td>&nbsp;&nbsp;</td>  |  <td>&nbsp;&nbsp;</td>Appwrite<td>&nbsp;&nbsp;</td>
 
 <div style="display: flex; align-items: center; "> <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin-left: 105px;"><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>    
